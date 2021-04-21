@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomHilder
 - 👀 I’m interested in modelling how baby planets interact with their host protoplanetary disks
-- 🌱 I’m currently a third year undergraduate astrophysics student, and self-teaching object oriented programming
+- 🌱 I’m currently a third year undergraduate astrophysics student and researcher
 - 📫 How to reach me: thil0004@student.monash.edu
 
 <!---

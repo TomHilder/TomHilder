@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomHilder
 - 👀 I’m interested in modelling how young planets interact with their host protoplanetary disks
-- 🌱 I’m currently completed my PhD in astrophysics at Monash University
+- 🌱 I’m currently completing my PhD in astrophysics at Monash University
 - 📫 How to reach me: thomas.hilder@monash.edu
 
 <!---

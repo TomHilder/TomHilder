@@ -10,10 +10,10 @@ I'm currently working on using data from the [Local Volume Mapper](https://www.s
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=tomhilder&show_icons=true&theme=github_dark&hide_title=True&hide_border=false" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tomhilder&show_icons=true&theme=github_dark&hide_title=True&hide_border=false" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhilder&layout=donut&theme=github_dark&size_weight=0.0&count_weight=1&hide_title=True&hide_border=false&hide=TeX" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhilder&layout=donut&theme=github_dark&size_weight=0.0&count_weight=1&hide_title=True&hide_border=false&hide=TeX" />
 </a>
 
 <!---

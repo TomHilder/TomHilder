@@ -30,7 +30,7 @@
 
 ### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tomhilder&show_icons=true&theme=shadow_green)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tomhilder&show_icons=true&theme=default)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 

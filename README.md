@@ -35,12 +35,21 @@ I'm currently working on using data from the [Local Volume Mapper](https://www.s
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomhilder&layout=donut&theme=transparent&size_weight=0&count_weight=1&hide=TeX) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomhilder&layout=donut&theme=transparent&size_weight=0.0&count_weight=1&exclude_repo=hons_thesis&hide_title=True&hide_border=true) -->
 
-<a>
+<div class="row">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api?username=tomhilder&show_icons=true&theme=transparent&hide_border=true" alt="Stats" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhilder&layout=donut&theme=transparent&size_weight=0.0&count_weight=1&exclude_repo=hons_thesis&hide_title=True&hide_border=true" alt="Languages" style="width:100%">
+  </div>
+</div>
+
+<!-- <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomhilder&show_icons=true&theme=transparent&hide_border=true" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhilder&layout=donut&theme=transparent&size_weight=0.0&count_weight=1&exclude_repo=hons_thesis&hide_title=True&hide_border=true" />
-</a>
+</a> -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 

@@ -2,7 +2,7 @@
 
 **`PhD Candidate (Astrophysics & Data Analysis)`**
 
-I am a Ph.D. candidate working in astrophyics at the [School of Physics & Astronomy](https://github.com/Monash-University-Physics-Astronomy) at Monash University, Australia.
+I am a Ph.D. candidate working in astrophysics at the [School of Physics & Astronomy](https://github.com/Monash-University-Physics-Astronomy) at Monash University, Australia.
 I'm interested in star & planet formation, protoplanetary discs, data analysis methods, and Bayesian statistics.
 I have worked with data from the [ALMA observatory](https://www.almaobservatory.org/en/home/) and I am a member of the [exoALMA collaboration](https://www.exoalma.com/).
 I'm currently working on using data from the [Local Volume Mapper](https://www.sdss.org/dr18/lvm/about/) to improve our understanding of how energy and momentum are transported through the interstellar medium, and how these processes contribute to both star formation and the evolution of the Milky Way galaxy.

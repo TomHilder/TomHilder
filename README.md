@@ -32,7 +32,7 @@ I'm currently working on using data from the [Local Volume Mapper](https://www.s
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tomhilder&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomhilder&layout=donut&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomhilder&layout=donut&theme=transparent&size_weight=0&count_weight=1)
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->

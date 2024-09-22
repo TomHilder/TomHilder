@@ -5,7 +5,7 @@
 I am a 2nd year Ph.D. candidate working in astrophyics at the [School of Physics & Astronomy](https://github.com/Monash-University-Physics-Astronomy) at Monash University, Australia.
 I'm interested in star & planet formation, protoplanetary discs, data analysis methods, and Bayesian statistics.
 I have worked with data from the [ALMA observatory](https://www.almaobservatory.org/en/home/) and I am a member of the [exoALMA collaboration](https://www.exoalma.com/).
-I'm currently working on using data from the [Local Volume Mapper](https://www.sdss.org/dr18/lvm/about/) to improve our understanding of how energy and momentum is transported through the interstellar medium.
+I'm currently working on using data from the [Local Volume Mapper](https://www.sdss.org/dr18/lvm/about/) to improve our understanding of how energy and momentum are transported through the interstellar medium, and how these process contribute to both star formation and the evolution of the Milky Way galaxy.
 
 ---
 
@@ -26,7 +26,7 @@ I'm currently working on using data from the [Local Volume Mapper](https://www.s
 <!-- <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> -->
 <!-- <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
 <!-- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
-<br /> -->
+<!-- <br /> -->
 
 ### 📊 Stats
 

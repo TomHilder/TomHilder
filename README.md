@@ -1,15 +1,15 @@
-# 🌌 Tom Hilder
+## Hey 👋, I'm Tom
 
 **`PhD Candidate (Astrophysics & Data Analysis)`**
 
-- 👋 Hi, I’m @TomHilder
-- 👀 I’m interested in protoplanetary discs, planet-disc interactions, and statistics.
-- 🌱 I’m currently completing my PhD in astrophysics at Monash University
-- 📫 How to reach me: thomas.hilder@monash.edu
+I am a 2nd year Ph.D. candidate working in astrophyics at the [School of Physics & Astronomy](https://github.com/Monash-University-Physics-Astronomy) at Monash University, Australia.
+I'm interested in star & planet formation, protoplanetary discs, data analysis methods, and Bayesian statistics.
+I have worked with data from the [ALMA observatory](https://www.almaobservatory.org/en/home/) and I am a member of the [exoALMA collaboration](https://www.exoalma.com/).
+I'm currently working on using data from the [Local Volume Mapper](https://www.sdss.org/dr18/lvm/about/) to improve our understanding of how energy and momentum is transported through the interstellar medium.
 
 ---
 
-### 🧰 Languages and Tools
+<!-- ### 🧰 Languages and Tools
 
 <!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
 <!-- <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
@@ -26,7 +26,7 @@
 <!-- <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> -->
 <!-- <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
 <!-- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
-<br />
+<br /> -->
 
 ### 📊 Stats
 

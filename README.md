@@ -35,10 +35,10 @@ I'm currently working on using data from the [Local Volume Mapper](https://www.s
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomhilder&layout=donut&theme=transparent&size_weight=0&count_weight=1&hide=TeX) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomhilder&layout=donut&theme=transparent&size_weight=0.0&count_weight=1&exclude_repo=hons_thesis&hide_title=True&hide_border=true) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomhilder&show_icons=true&theme=transparent&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhilder&layout=donut&theme=transparent&size_weight=0.0&count_weight=1&exclude_repo=hons_thesis&hide_title=True&hide_border=true" />
 </a>
 

@@ -12,7 +12,7 @@ I have worked on projects in astronomy spanning orders of magnitude in wavelengt
 
 ### 🔧 Technical Skills  
 - **Programming:** Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, JAX), Julia, Fortran
-- **Machine Learning & Statistics:** Gaussian processes, Bayesian inference, probabilistic programming (Stan, PyMC, Turing), linear models (PyLOPS), non-parametrics
+- **Machine Learning & Statistics:** Gaussian processes, Bayesian inference, probabilistic programming (Stan, PyMC, Turing), linear models (PyLops), non-parametrics
 - **Computational Methods:** Accelerated and high perfomance computing, sparse linear algebra, matrix-free methods, Fast Fourier Transforms, auto-differentiation, optimisation
 <!---
 Put a highlights section here eventually

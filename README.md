@@ -1,11 +1,23 @@
 ## Hey 👋, I'm Tom
 
-**`PhD Candidate (Astrophysics & Data Analysis)`**
+**`PhD Candidate | Astrophysics, Data Science & Statistics`**
 
-I am a Ph.D. candidate working in astrophysics at the [School of Physics & Astronomy](https://github.com/Monash-University-Physics-Astronomy) at Monash University, Australia.
-I'm interested in star & planet formation, protoplanetary discs, data analysis methods, and Bayesian statistics.
-I have worked with data from the [ALMA observatory](https://www.almaobservatory.org/en/home/) and I am a member of the [exoALMA collaboration](https://www.exoalma.com/).
-I'm currently working on using data from the [Local Volume Mapper](https://www.sdss.org/dr18/lvm/about/) to improve our understanding of how energy and momentum are transported through the interstellar medium, and how these processes contribute to both star formation and the evolution of the Milky Way galaxy.
+I am a Ph.D. student working in astrophysics at the [School of Physics & Astronomy](https://github.com/Monash-University-Physics-Astronomy) at Monash University, Australia.
+I'm working on a state-of-the-art method for accelerated Gaussian processes to model spectrospatial data, allowing for the robust inference of astrophysical quantities of interest.
+Broadly, my work combines data analysis methods, machine learning, and astrophysics.
+
+### 🔭 Research & Projects 
+
+I have worked on projects in astronomy spanning orders of magnitude in wavelength, including radio, optical and x-ray. During my PhD, my research has focused on protoplanetary disc kinematics as a tool for detecting newly-formed planets, as well as modelling line emission in the interstellar medium to improve our understanding of the mechanisms driving energy and angular momentum transport through the Milky Way. For these, I used observations from the [ALMA observatory](https://www.almaobservatory.org/en/home/) and the [Local Volume Mapper](https://www.sdss.org/dr18/lvm/about/). Both projects are part of larger, collaborative efforts—an essential aspect of modern astronomy—and so I am a member of the [exoALMA collaboration](https://www.exoalma.com/) and the [Sloan Digital Sky Survey V](https://www.sdss.org/).
+
+### 🔧 Technical Skills  
+- **Programming:** Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, JAX), Julia, Fortran
+- **Machine Learning & Statistics:** Gaussian processes, Bayesian inference, probabilistic programming (Stan, PyMC, Turing), linear models (PyLOPS), non-parametrics
+- **Computational Methods:** Accelerated and high perfomance computing, sparse linear algebra, matrix-free methods, Fast Fourier Transforms, auto-differentiation, optimisation
+<!---
+Put a highlights section here eventually
+-->
+### 📊 GitHub Stats  
 
 <br>
 

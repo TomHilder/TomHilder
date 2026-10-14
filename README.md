@@ -1,8 +1,7 @@
 ## Hey 👋, I'm Tom
 
-**`PhD Candidate | Astrophysics and Computational Statistics.`**
+**`Flatiron Research Fellow | Astrophysics and Computational Statistics.`**
 
-I am a Ph.D. student working in astrophysics at the [School of Physics & Astronomy](https://github.com/Monash-University-Physics-Astronomy) at Monash University, Australia.
 Broadly, my work combines data analysis methods, machine learning, and astrophysics.
 I am particularly interested in star and planet formation, and in developing inference algorithms to best leverage the complex datasets in modern astronomy.
 
